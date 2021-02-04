@@ -20,3 +20,5 @@
 🎙️ No dia 6 de janeiro de 2021 criamos o podcast [Moças da Web](https://anchor.fm/mocasdaweb), um podcast com bate-papo sobre tecnologia apresentado por mim e pela [Pachi Codes](https://pachicodes.com).
 
 🎥 Dia 23 de janeiro postei o meu [primeiro vídeo](https://www.youtube.com/watch?v=D0Y8AJ6oMn0&lc=UgyGfJuyZECbzDwvpWZ4AaABAg) no youtube!
+
+🎥 Dia 4 de fevereiro eu consegui bater os meus primeiros 100 inscritos no youtube! Agora meu canal tem link personalizado.

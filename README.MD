@@ -6,7 +6,7 @@
 
 📚 No ínicio de 2020, despertou meu interesse por front-end e comecei a estudar sobre as bases: web design, html e css.
 
-🔴 Comecei com live coding dia 16 de junho de 2020.
+🔴 Comecei com live coding dia 7 de junho de 2020.
 
 🗣 No segundo semestre de 2020 tive minhas primeiras partipações em podcasts e entrevistas.
 
@@ -24,3 +24,5 @@
 🎥 Dia 4 de fevereiro eu consegui bater os meus primeiros 100 inscritos no youtube! Agora meu canal tem link personalizado.
 
 💼 Dia 8 de março me tornei oficialmente uma estágiária em desenvolvimento web.
+
+🔴 Completei 1 ano de live coding dia 7 de junho de 2021.

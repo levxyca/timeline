@@ -18,6 +18,8 @@
 
 ✍🏻 Em 01/10 postei o meu primeiro artigo falando sobre [github para leigos](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j).
 
+💻 Em outubro de 2020 participei da minha primeira hacktoberfest!
+
 > 2021
 
 🎙️ No dia 6 de janeiro de 2021 criamos o podcast [Moças da Web](https://anchor.fm/mocasdaweb), um podcast com bate-papo sobre tecnologia apresentado por mim e pela [Pachi Codes](https://pachicodes.com).
@@ -39,3 +41,5 @@
 💼 12 de junho finalizei o meu estágio obrigatório em desenvolvimento web.
 
 🔴 9 de agosto meu canal do twitch teve sua primeira parceria, uma ação com a EBAC.
+
+🌸 1 de novembro comecei a minha participação no projeto de mentoria da Feministech com foco em HTML && CSS para mulheres e pessoas não binárias.

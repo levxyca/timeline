@@ -43,3 +43,5 @@
 🔴 9 de agosto meu canal do twitch teve sua primeira parceria, uma ação com a EBAC.
 
 🌸 1 de novembro comecei a minha participação no projeto de mentoria da Feministech com foco em HTML && CSS para mulheres e pessoas não binárias.
+
+⭐ 19 de novembro me tornei uma GitHub Star.

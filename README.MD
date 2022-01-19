@@ -1,6 +1,10 @@
-# Timeline
+# ![Timeline](imgs/timeline.png)
 
-> 2020
+## 🖱️
+
+- [2020](#2020)
+
+## 2020
 
 🎓 Comecei a cursar Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná no segundo semestre de 2019.
 

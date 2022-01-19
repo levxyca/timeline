@@ -3,6 +3,7 @@
 ## 🖱️
 
 - [2020](#2020)
+- [2021](#2021)
 
 ## 2020
 
@@ -24,7 +25,7 @@
 
 💻 Em outubro de 2020 participei da minha primeira hacktoberfest!
 
-> 2021
+## 2021
 
 🎙️ No dia 6 de janeiro de 2021 criamos o podcast [Moças da Web](https://anchor.fm/mocasdaweb), um podcast com bate-papo sobre tecnologia apresentado por mim e pela [Pachi Codes](https://pachicodes.com).
 

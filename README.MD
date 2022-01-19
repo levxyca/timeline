@@ -46,6 +46,10 @@
 
 🔴 9 de agosto meu canal do twitch teve sua primeira parceria, uma ação com a EBAC.
 
+🗣 No dia 18 de setembro, fui Mestre de Cerimônia da Sala de Conteúdo Sonia Guimarães, trilha sobre Front-end, na PrograMaria Summit 2021.
+
+🗣 Dia 25 de setembro dei minha primeira palestra no RanchoDev na trila Midday falando sobre "Como live coding pode te ajudar sendo uma pessoa iniciante na área de TI".
+
 🌸 1 de novembro comecei a minha participação no projeto de mentoria da Feministech com foco em HTML && CSS para mulheres e pessoas não binárias.
 
 ⭐ 19 de novembro me tornei uma GitHub Star.

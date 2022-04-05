@@ -4,6 +4,7 @@
 
 - [2020](#2020)
 - [2021](#2021)
+- [2022](#2022)
 
 ## 2020
 
@@ -54,3 +55,7 @@
 🌸 1 de novembro comecei a minha participação no projeto de mentoria da Feministech com foco em HTML && CSS para mulheres e pessoas não binárias.
 
 ⭐ 19 de novembro me tornei uma GitHub Star.
+
+## 2022
+
+💼 5 de abril me tornei Tech Community Manager da Abacatinhos.dev

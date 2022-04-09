@@ -1,5 +1,7 @@
 # ![Timeline](imgs/timeline.png)
 
+Esse repositório contém datas que foram importantes para mim em minha carreira, então aqui você não vai encontrar todas as coisas que já produzi, caso queira conferir TODA a minha timeline é só [clicar aqui](https://timeline.levxyca.com/).
+
 ## 🖱️
 
 - [2020](#2020)

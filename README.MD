@@ -59,3 +59,5 @@
 ## 2022
 
 💼 5 de abril me tornei Tech Community Manager da Abacatinhos.dev
+
+🗣 8 de abril realizei minha primeira palestra técnica falando sobre: A importância da acessibilidade e como introduzir isso para dentro dos nossos projetos com HTML.

@@ -65,3 +65,5 @@ Esse repositório contém datas que foram importantes para mim em minha carreira
 🗣 8 de abril realizei minha primeira palestra técnica falando sobre: A importância da acessibilidade e como introduzir isso para dentro dos nossos projetos com HTML.
 
 👑 19 de maio selecionada para ser embaixadora da @WomenTechmakers.
+
+💵 8 de Junho meu perfil foi aprovado no GitHub Sponsors.

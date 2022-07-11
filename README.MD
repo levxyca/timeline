@@ -66,4 +66,6 @@ Esse repositório contém datas que foram importantes para mim em minha carreira
 
 👑 19 de maio selecionada para ser embaixadora da @WomenTechmakers.
 
-💵 8 de Junho meu perfil foi aprovado no GitHub Sponsors.
+💵 8 de junho meu perfil foi aprovado no GitHub Sponsors.
+
+💼 4 de julho entrei na Jera como desenvolvedora de software.

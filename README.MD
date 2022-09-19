@@ -69,3 +69,5 @@ Esse repositório contém datas que foram importantes para mim em minha carreira
 💵 8 de junho meu perfil foi aprovado no GitHub Sponsors.
 
 💼 4 de julho entrei na Jera como desenvolvedora de software.
+
+✈️ Participei do meu primeiro evento tech presencial com a RubyConf Brasil.

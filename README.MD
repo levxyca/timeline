@@ -7,6 +7,7 @@ Esse repositório contém datas que foram importantes para mim em minha carreira
 - [2020](#2020)
 - [2021](#2021)
 - [2022](#2022)
+- [2023](#2023)
 
 ## 2020
 
@@ -71,3 +72,7 @@ Esse repositório contém datas que foram importantes para mim em minha carreira
 💼 4 de julho entrei na Jera como desenvolvedora de software.
 
 ✈️ Participei do meu primeiro evento tech presencial com a RubyConf Brasil.
+
+## 2023
+
+⭐ 1 de fevereiro me tornei Alura Star.
